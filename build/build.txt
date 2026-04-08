@@ -1,0 +1,10 @@
+Build Instructions
+
+1. Compile Java files:
+   javac src/com/studentmanagement/Main.java
+
+2. Run the program:
+   java com.studentmanagement.Main
+
+3. Output:
+   Student Management System Started

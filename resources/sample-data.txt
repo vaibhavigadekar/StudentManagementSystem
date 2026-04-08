@@ -1,0 +1,13 @@
+Sample Student Data
+
+1. Name: Rahul
+   Email: rahul@gmail.com
+   Course: MCA
+
+2. Name: Priya
+   Email: priya@gmail.com
+   Course: BCA
+
+3. Name: Amit
+   Email: amit@gmail.com
+   Course: BSc IT

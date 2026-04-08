@@ -1,0 +1,58 @@
+Student Management System
+
+----------------------------------------
+1. Project Description
+----------------------------------------
+This is a Java-based Student Management System.
+It is used to manage student records like adding,
+viewing, updating, and deleting student details.
+
+----------------------------------------
+2. Features
+----------------------------------------
+- Add Student
+- View Students
+- Update Student
+- Delete Student
+
+----------------------------------------
+3. Technologies Used
+----------------------------------------
+- Java
+- MySQL
+- JDBC
+- VS Code
+
+----------------------------------------
+4. Project Structure
+----------------------------------------
+- src/ (Java source code)
+- database/ (SQL schema)
+- config/ (database configuration)
+- docs/ (project documentation)
+- tests/ (test files)
+
+----------------------------------------
+5. Database Details
+----------------------------------------
+Database Name: student_db
+
+Table: students
+Columns:
+- id (Primary Key)
+- name
+- email
+- course
+
+----------------------------------------
+6. How to Run Project
+----------------------------------------
+1. Install MySQL and create database
+2. Run schema.sql file
+3. Update config.properties file
+4. Run Main.java file
+
+----------------------------------------
+7. Author
+----------------------------------------
+Your Name
